@@ -1,0 +1,295 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "what's up"
+      ],
+      "responses": [
+        "Hello! How can I help?",
+        "Hey there!",
+        "Hi! What can I do for you?"
+      ]
+    },
+
+    {
+      "tag": "farewell",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "see you",
+        "take care"
+      ],
+      "responses": [
+        "Goodbye!",
+        "See you later!",
+        "Take care!"
+      ]
+    },
+
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thank you",
+        "thanks",
+        "thanks a lot"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Happy to help!",
+        "Anytime!"
+      ]
+    },
+
+    {
+      "tag": "name",
+      "patterns": [
+        "what is your name",
+        "who are you",
+        "tell me your name"
+      ],
+      "responses": [
+        "I am a simple AI chatbot.",
+        "You can call me ChatBot."
+      ]
+    },
+
+    {
+      "tag": "faq_hours",
+      "patterns": [
+        "what are your hours",
+        "when are you open",
+        "opening time"
+      ],
+      "responses": [
+        "We're open Monday to Friday, 9 AM to 6 PM."
+      ]
+    },
+
+    {
+      "tag": "status",
+      "patterns": [
+        "how are you",
+        "are you okay",
+        "what are you doing",
+        "how is your day"
+      ],
+      "responses": [
+        "I am doing great!",
+        "Everything is working properly.",
+        "I am ready to help you."
+      ]
+    },
+
+    {
+      "tag": "jokes",
+      "patterns": [
+        "tell me a joke",
+        "make me laugh",
+        "say something funny"
+      ],
+      "responses": [
+        "Why do programmers hate bugs? Because they take too much debugging!",
+        "I would tell you a joke about AI, but it is still learning humor."
+      ]
+    },
+
+    {
+      "tag": "study_help",
+      "patterns": [
+        "how to study effectively",
+        "study tips",
+        "exam preparation",
+        "how can i focus on studies",
+        "how to prepare for exams"
+      ],
+      "responses": [
+        "Create a study schedule and follow it consistently.",
+        "Practice regularly and revise important topics frequently.",
+        "Break large topics into smaller sections and study daily."
+      ]
+    },
+
+    {
+      "tag": "ai_info",
+      "patterns": [
+        "what is ai",
+        "define artificial intelligence",
+        "what is artificial intelligence"
+      ],
+      "responses": [
+        "Artificial Intelligence is the simulation of human intelligence by machines.",
+        "AI enables computers to perform tasks that normally require human intelligence."
+      ]
+    },
+    
+    {
+      "tag": "machine_learning",
+      "patterns": [
+        "what is machine learning",
+        "define machine learning",
+        "explain machine learning"
+      ],
+      "responses": [
+        "Machine Learning is a subset of AI that enables systems to learn from data.",
+        "Machine Learning allows computers to improve their performance without explicit programming."
+      ]
+    },
+
+    {
+      "tag": "deep_learning",
+      "patterns": [
+        "what is deep learning",
+        "define deep learning",
+        "explain deep learning"
+      ],
+      "responses": [
+        "Deep Learning is a subset of Machine Learning based on neural networks.",
+        "Deep Learning uses multiple layers of neural networks to learn complex patterns."
+      ]
+    },
+
+    {
+      "tag": "motivation",
+      "patterns": [
+        "motivate me",
+        "give me motivation",
+        "inspire me",
+        "i feel demotivated"
+      ],
+      "responses": [
+        "Success comes from consistent effort every day.",
+        "Every expert was once a beginner. Keep learning and improving.",
+        "Small progress every day leads to big results."
+      ]
+    },
+
+    {
+      "tag": "career_advice",
+      "patterns": [
+        "how to become an ai engineer",
+        "how to learn machine learning",
+        "career in ai",
+        "how can i start ai"
+      ],
+      "responses": [
+        "Start with Python, Machine Learning fundamentals, and real-world projects.",
+        "Build AI projects and learn libraries such as NumPy, Pandas, Scikit-learn, and TensorFlow.",
+        "Practice consistently and create a strong GitHub portfolio."
+      ]
+    },
+
+      {
+      "tag": "machine_learning",
+      "patterns": [
+        "what is machine learning",
+        "explain machine learning",
+        "define machine learning",
+        "what is ml"
+      ],
+      "responses": [
+        "Machine Learning is a branch of AI that enables systems to learn from data without being explicitly programmed.",
+        "Machine Learning allows computers to identify patterns and make predictions from data.",
+        "Machine Learning helps systems improve their performance through experience and training data."
+      ]
+    },
+  
+    {
+      "tag": "deep_learning",
+      "patterns": [
+        "what is deep learning",
+        "explain deep learning",
+        "define deep learning"
+      ],
+      "responses": [
+        "Deep Learning is a subset of Machine Learning based on neural networks with multiple layers.",
+        "Deep Learning enables computers to learn complex patterns from large amounts of data.",
+        "Deep Learning powers technologies such as image recognition, speech recognition, and AI assistants."
+      ]
+    },
+    
+    {
+      "tag": "python",
+      "patterns": [
+        "what is python",
+        "why use python",
+        "explain python",
+        "tell me about python"
+      ],
+      "responses": [
+        "Python is a popular programming language known for its simplicity and readability.",
+        "Python is widely used in AI, Machine Learning, Data Science, and Web Development.",
+        "Python provides powerful libraries that make development faster and easier."
+      ]
+    },
+  
+    {
+      "tag": "data_science",
+      "patterns": [
+        "what is data science",
+        "explain data science",
+        "define data science"
+      ],
+      "responses": [
+        "Data Science is the process of extracting insights and knowledge from data.",
+        "Data Science combines statistics, programming, and domain knowledge to analyze data.",
+        "Data Scientists use data to solve problems and support decision making."
+      ]
+    },
+
+    {
+      "tag": "resume_help",
+      "patterns": [
+        "how to build a good resume",
+        "resume tips",
+        "how to improve my resume",
+        "resume advice"
+      ],
+      "responses": [
+        "Keep your resume concise, professional, and focused on achievements.",
+        "Highlight relevant skills, projects, internships, and certifications.",
+        "Use clear formatting and tailor your resume to the job role."
+      ]
+    },
+
+    {
+      "tag": "developer",
+      "patterns": [
+        "who created you",
+        "who developed you",
+        "who made you",
+        "tell me about your developer",
+        "who is your developer",
+        "who built you",
+        "who is your creator"
+      ],
+      "responses": [
+        "I was developed by Mezan Akhtar using Python, NLTK, TF-IDF, and Streamlit.",
+        "My developer, Mezan Akhtar, is an AIML graduate focused on Artificial Intelligence, Machine Learning, Generative AI, and AI Engineering.",
+        "I was built by Mezan Akhtar as an NLP-based AI Assistant project."
+      ]
+    },
+
+    {
+      "tag": "technology",
+      "patterns": [
+        "what technologies were used to build you",
+        "which technologies did you use",
+        "what tech stack was used",
+        "what tools were used"
+      ],
+      "responses": [
+        "I was built using Python, NLTK, TF-IDF, JSON, and Streamlit.",
+        "My technology stack includes Python, Natural Language Processing, TF-IDF vectorization, and Streamlit.",
+        "This project uses Python for backend logic, NLTK for NLP processing, TF-IDF for intent matching, and Streamlit for the user interface."
+      ]
+    }
+  ]
+}
+
+
+  
