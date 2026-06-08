@@ -83,7 +83,6 @@ st.metric(
     "Knowledge Intents",
     "15+"
 )
-    
 
 if len(st.session_state.messages) == 0:
         st.info(

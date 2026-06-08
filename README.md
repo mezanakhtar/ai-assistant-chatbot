@@ -115,15 +115,15 @@ http://localhost:8501
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 ### Homepage
 
 ![Homepage](assets/chatbot-homepage.png)
 
-### Chat Interface
+### Chatbot Conversation
 
-![Chat Interface](assets/chatbot-conversation.png)
+![Conversation](assets/chatbot-conversation.png)
 
 ---
 
