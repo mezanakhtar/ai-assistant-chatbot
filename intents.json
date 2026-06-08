@@ -137,7 +137,9 @@
       ],
       "responses": [
         "Machine Learning is a subset of AI that enables systems to learn from data.",
-        "Machine Learning allows computers to improve their performance without explicit programming."
+        "Machine Learning allows computers to improve their performance without explicit programming.",
+        "Machine Learning is a field of AI that focuses on developing algorithms that can learn from and make predictions on data.",
+        "Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data and improve their performance without being explicitly programmed."
       ]
     },
 
@@ -150,7 +152,8 @@
       ],
       "responses": [
         "Deep Learning is a subset of Machine Learning based on neural networks.",
-        "Deep Learning uses multiple layers of neural networks to learn complex patterns."
+        "Deep Learning uses multiple layers of neural networks to learn complex patterns.",
+        "Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data."
       ]
     },
 
@@ -180,36 +183,8 @@
       "responses": [
         "Start with Python, Machine Learning fundamentals, and real-world projects.",
         "Build AI projects and learn libraries such as NumPy, Pandas, Scikit-learn, and TensorFlow.",
-        "Practice consistently and create a strong GitHub portfolio."
-      ]
-    },
-
-      {
-      "tag": "machine_learning",
-      "patterns": [
-        "what is machine learning",
-        "explain machine learning",
-        "define machine learning",
-        "what is ml"
-      ],
-      "responses": [
-        "Machine Learning is a branch of AI that enables systems to learn from data without being explicitly programmed.",
-        "Machine Learning allows computers to identify patterns and make predictions from data.",
-        "Machine Learning helps systems improve their performance through experience and training data."
-      ]
-    },
-  
-    {
-      "tag": "deep_learning",
-      "patterns": [
-        "what is deep learning",
-        "explain deep learning",
-        "define deep learning"
-      ],
-      "responses": [
-        "Deep Learning is a subset of Machine Learning based on neural networks with multiple layers.",
-        "Deep Learning enables computers to learn complex patterns from large amounts of data.",
-        "Deep Learning powers technologies such as image recognition, speech recognition, and AI assistants."
+        "Practice consistently and create a strong GitHub portfolio.",
+        "To become an AI Engineer, learn Python, Machine Learning, Deep Learning, NLP, and Generative AI while building real-world projects and deploying them to production environments."
       ]
     },
     
@@ -253,7 +228,8 @@
       "responses": [
         "Keep your resume concise, professional, and focused on achievements.",
         "Highlight relevant skills, projects, internships, and certifications.",
-        "Use clear formatting and tailor your resume to the job role."
+        "Use clear formatting and tailor your resume to the job role.",
+        "Build strong projects, showcase them on GitHub, maintain an optimized LinkedIn profile, and highlight practical skills with measurable achievements."
       ]
     },
 
