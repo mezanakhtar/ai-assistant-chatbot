@@ -4,6 +4,12 @@ NLP-powered conversational chatbot built using Python, NLTK, TF-IDF, and Streaml
 
 ---
 
+## Live Demo
+
+🔗 https://mezan-ai-assistant.streamlit.app
+
+---
+
 ## Overview
 
 AI Assistant Chatbot is an NLP-based conversational chatbot developed using Python, NLTK, TF-IDF, and Streamlit.
